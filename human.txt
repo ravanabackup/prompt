@@ -1,0 +1,25 @@
+Prompt to Gemini:
+"Analyze the provided image carefully and generate a highly detailed, realistic text-to-image prompt that can be used with generative AI.
+When describing the subject:
+
+Face & Hair: Mention facial expression, skin tone, makeup, hairstyle, and hair texture.
+
+Outfit Details: Describe the clothing style in detail (fabric type, embroidery, embellishments, colors, patterns, transparency, shine, layering).
+
+Body & Fashion Exposure: Include how the outfit is worn on the body:
+
+Neckline design (e.g., deep neck, sweetheart, halter, plunging).
+
+Midriff or waist visibility (e.g., saree draped to reveal midriff, lehenga with cropped blouse, etc.).
+
+Draping style (e.g., pallu over shoulder, sheer layers, side-slit, fitted bodice).
+
+Overall silhouette (form-fitting, flowy, structured, sheer, layered).
+
+Accessories: Jewelry, bangles, earrings, necklace placement (e.g., necklace resting on neckline), any hair accessories.
+
+Background & Lighting: Describe the setting, background color/environment, and lighting style (studio, cinematic, soft, harsh, natural).
+
+Quality & Style Descriptors: Add technical details like hyper-realistic, 8K resolution, cinematic lighting, sharp focus, soft shadows, high detail, elegant, glamorous, fashion photography aesthetic.
+
+The final description should be professional, elegant, and photorealistic, focusing on fashion and presentation, not explicit content."
