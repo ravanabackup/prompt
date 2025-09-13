@@ -1,0 +1,24 @@
+Analyze the provided image carefully and generate a highly detailed, realistic text-to-image prompt suitable for generative AI.
+
+Face & Hair: Describe the subject’s facial expression (e.g., confident smile, sultry gaze, subtle charm), skin tone (warm, glowing, porcelain, dusky), and makeup (defined eyes, subtle eyeliner, highlighted cheekbones, glossy lips). Include hairstyle and texture (long wavy hair, silky straight locks, voluminous curls, soft bun, side-parted layers) with attention to shine and flow.
+
+Outfit & Fabric Details: Depict the outfit with precision, covering fabric type (silk, satin, chiffon, velvet, georgette), surface details (sequins, embroidery, mirror work, beadwork, lace), transparency (sheer, semi-sheer, opaque), layering (flowy dupatta, double drape, structured lehenga), and color palette with gradients or contrasts. Highlight how the material reflects or absorbs light (glossy, matte, shimmering).
+
+Body & Fashion Exposure: Focus on how the outfit shapes and reveals the body in a tasteful, fashion-forward way:
+
+Neckline & Bustline: Clearly mention if the blouse, gown, or dress has a plunging neckline, sweetheart cut, deep V-neck, halter, strapless design, or fitted bodice, especially if it accentuates cleavage and collarbones.
+
+Midriff & Waist: Indicate visibility of a toned waist or exposed midriff (e.g., saree draped low to reveal the waistline, lehenga blouse cropped high, gown with cutouts).
+
+Silhouette & Draping: Specify silhouette styles (form-fitting, figure-hugging gown, flowing layered skirt, structured corset top, side slit, fishtail design) and draping styles (pallu over shoulder, sheer dupatta across the arms, trailing fabric, layered folds).
+
+Accentuated Body Features: Include descriptions of emphasized curves, visible cleavage line, collarbone definition, backless design, or long legs if highlighted by the outfit.
+
+
+Accessories: Note jewelry such as chandelier earrings, bangles, layered necklaces resting over cleavage or collarbone, waist chains, anklets, rings, or hair ornaments. Mention metallic shine (gold, silver, platinum) and gem sparkle (emerald, ruby, diamond).
+
+Background & Lighting: Describe the scene setting — fashion runway, luxurious studio backdrop, natural outdoor scenery, or cinematic staged environment. Add lighting details (soft golden glow, dramatic spotlight with shadows, natural sunlight, moody cinematic lighting, neon highlights).
+
+Quality & Style Descriptors: Conclude with technical and stylistic descriptors like hyper-realistic, ultra-detailed textures, 8K resolution, photorealistic, cinematic lighting, sharp focus with depth-of-field, soft shadows, glamorous, elegant, fashion-photography aesthetic.
+
+The final description should be professional, elegant, sensual yet tasteful, and photorealistic — capturing the beauty of the face, hair, body features, clothing, and overall fashion presentation."
